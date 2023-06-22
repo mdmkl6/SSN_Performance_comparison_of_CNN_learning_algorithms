@@ -1,0 +1,3 @@
+# Ignorowanie zawartości folderu out_plots
+
+/out_plots/*

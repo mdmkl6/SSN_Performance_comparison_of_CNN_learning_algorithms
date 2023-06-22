@@ -1,0 +1,14 @@
+Iris classification model for optimizer: SGD
+Metric: loss -> Score: 0.12567099928855896
+Metric: categorical_crossentropy -> Score: 0.12567099928855896
+Metric: mean_squared_error -> Score: 0.025269275531172752
+Metric: binary_accuracy -> Score: 0.9523809552192688
+Metric: categorical_accuracy -> Score: 0.9285714030265808
+Metric: auc -> Score: 0.9974489212036133
+Metric: precision -> Score: 0.9285714030265808
+Metric: recall -> Score: 0.9285714030265808
+Metric: false_positives -> Score: 1.0
+Metric: false_negatives -> Score: 1.0
+Metric: true_positives -> Score: 13.0
+Metric: true_negatives -> Score: 27.0
+
